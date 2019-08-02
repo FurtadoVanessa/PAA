@@ -1,0 +1,5 @@
+Tecnica Gulosa: 1ms
+Tecnica Força Bruta: 3ms
+
+Força bruta possui as vantagens de facil aplicabilidade, simples implementação. Porem, possui consideraveis tempos de execução
+A técnica gulosa possui menor tempo de execução, porém, sua implementação não é tão trivial como a força bruta.

@@ -1,0 +1,123 @@
+Tempo para 5 vértices 	64 ms
+Tempo para 10 vértices 	9 ms
+Tempo para 15 vértices 	12 ms
+Tempo para 20 vértices 	18 ms
+Tempo para 25 vértices 	22 ms
+Tempo para 30 vértices	14 ms
+
+Bordas da árvore geradora de custo mínimo:
+0 -- 4 == 0
+1 -- 4 == 2
+3 -- 4 == 7
+2 -- 4 == 10
+Tempo de execussão para 5 vertices: 64 ms
+
+Bordas da árvore geradora de custo mínimo:
+1 -- 9 == 0
+5 -- 9 == 0
+6 -- 9 == 0
+7 -- 9 == 0
+3 -- 9 == 2
+4 -- 9 == 2
+2 -- 9 == 7
+0 -- 9 == 8
+8 -- 9 == 9
+Tempo de execussão para 10 vertices: 9 ms
+
+Bordas da árvore geradora de custo mínimo:
+0 -- 14 == 0
+4 -- 14 == 0
+6 -- 14 == 0
+7 -- 14 == 0
+10 -- 14 == 0
+1 -- 14 == 2
+9 -- 14 == 2
+11 -- 14 == 2
+5 -- 14 == 5
+8 -- 14 == 5
+3 -- 14 == 7
+13 -- 14 == 7
+2 -- 14 == 10
+12 -- 14 == 10
+Tempo de execussão para 15 vertices: 12 ms
+
+Bordas da árvore geradora de custo mínimo:
+2 -- 19 == 0
+5 -- 19 == 0
+6 -- 19 == 0
+11 -- 19 == 0
+14 -- 19 == 0
+1 -- 19 == 1
+15 -- 19 == 1
+12 -- 19 == 2
+13 -- 19 == 3
+16 -- 19 == 4
+17 -- 19 == 4
+18 -- 19 == 5
+0 -- 19 == 7
+4 -- 19 == 7
+10 -- 19 == 8
+3 -- 19 == 9
+7 -- 19 == 9
+8 -- 19 == 9
+9 -- 19 == 10
+Tempo de execussão para 20 vertices: 18 ms
+
+Bordas da árvore geradora de custo mínimo:
+0 -- 24 == 0
+3 -- 24 == 0
+4 -- 24 == 0
+6 -- 24 == 0
+7 -- 24 == 0
+9 -- 24 == 0
+12 -- 24 == 0
+14 -- 24 == 0
+15 -- 24 == 0
+18 -- 24 == 0
+21 -- 24 == 0
+11 -- 24 == 1
+8 -- 24 == 2
+1 -- 24 == 3
+2 -- 24 == 3
+16 -- 24 == 5
+17 -- 24 == 6
+19 -- 24 == 6
+23 -- 24 == 6
+5 -- 24 == 7
+10 -- 24 == 7
+13 -- 24 == 7
+20 -- 24 == 9
+22 -- 24 == 10
+Tempo de execussão para 25 vertices: 22 ms
+
+Bordas da árvore geradora de custo mínimo:
+5 -- 29 == 0
+7 -- 29 == 0
+8 -- 29 == 0
+13 -- 29 == 0
+15 -- 29 == 0
+17 -- 29 == 0
+18 -- 29 == 0
+19 -- 29 == 0
+27 -- 29 == 0
+9 -- 29 == 1
+10 -- 29 == 1
+26 -- 29 == 1
+28 -- 29 == 1
+6 -- 29 == 3
+20 -- 29 == 3
+23 -- 29 == 3
+24 -- 29 == 3
+11 -- 29 == 4
+0 -- 29 == 5
+1 -- 29 == 5
+14 -- 29 == 5
+21 -- 29 == 5
+25 -- 29 == 6
+2 -- 29 == 7
+22 -- 29 == 7
+3 -- 29 == 8
+4 -- 29 == 8
+16 -- 29 == 9
+12 -- 29 == 10
+Tempo de execussão para 30 vertices: 14 ms
